@@ -13,6 +13,6 @@ public class Solution {
         String month = in.next();
         String day = in.next();
         String year = in.next();
-        System.out.println(getDay(day,monthm,year));
+        System.out.println(getDay(day,month,year));
      }   
     }
