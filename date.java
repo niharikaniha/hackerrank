@@ -10,9 +10,9 @@ public class Solution {
 
      public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        int month = in.next();
-        int day = in.next();
-        int year = in.next();
+        String month = in.next();
+        String day = in.next();
+        String year = in.next();
         System.out.println(getDay(day,monthm,year));
      }   
     }
